@@ -2,6 +2,8 @@
 
 Started on 18/12/2022
 
+Select your main movements, enter your 1rms and you'll have your training block.
+
 ## Goals:
 To make a script that easily generates a training block based on input.
 
